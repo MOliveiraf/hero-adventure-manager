@@ -1,0 +1,1 @@
+# Este é o programa Adventure Manager
